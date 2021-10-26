@@ -1,0 +1,40 @@
+{
+  "ferreteria": [
+    {
+      "nombre": "PINTURA FORTALEZA",
+      "imagen": "https://www.prismatik.com.co/wp-content/uploads/2021/05/Fortaleza.png",
+      "precio": "$110000",
+      "Categoria": "ferreteria",
+      "id": 6
+    },
+    {
+      "nombre": "PRIMER PARA PLÁSTICOS",
+      "imagen": "https://www.prismatik.com.co/wp-content/uploads/2021/05/PRIMER-PARA-PLASTICOS.png",
+      "precio": "$190000",
+      "Categoria": "ferreteria",
+      "id": 5
+    },
+    {
+      "nombre": "PRIMER EPÓXICO",
+      "imagen": "https://www.prismatik.com.co/wp-content/uploads/2021/05/EPOXAMIDA.png",
+      "precio": "$113000",
+      "Categoria": "ferreteria",
+      "id": 4
+    },
+    {
+      "nombre": "ANTICORROSIVO ALQUÍDICO",
+      "imagen": "https://www.prismatik.com.co/wp-content/uploads/2021/05/Base-Anticorrosivo-para-Metal.png",
+      "precio": "$108000",
+      "Categoria": "ferreteria",
+      "id": 3
+    },
+    {
+      "nombre": "LACA NITROCELULÓSICA",
+      "imagen": "https://www.prismatik.com.co/wp-content/uploads/2021/05/AUTOMOTIVA-LACA-NITRO-GALON-1.png",
+      "precio": "$121000",
+      "Categoria": "ferreteria",
+      "id": 2
+    }
+    
+  ]
+}

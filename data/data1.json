@@ -1,0 +1,47 @@
+{
+  "cerrajeria": [
+    {
+      "nombre": "YALE-INAFER-SCHLAGE",
+      "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_737/https://www.cerrajeriacapital.com/wp-content/uploads/2020/08/Mesa-de-trabajo-6.png",
+      "precio": "$130000",
+      "Categoria": "cerrajeria",
+      "id": 1
+    },
+    {
+      "nombre": "MEDECO",
+      "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_738/https://www.cerrajeriacapital.com/wp-content/uploads/2020/08/Mesa-de-trabajo-5.png",
+      "precio": "$90000",
+      "Categoria": "cerrajeria",
+      "id": 2
+    },
+    {
+      "nombre": "SECUREME, CISA",
+      "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_737/https://www.cerrajeriacapital.com/wp-content/uploads/2020/08/Mesa-de-trabajo-4.png",
+      "precio": "78000",
+      "Categoria": "cerrajeria",
+      "id": 3
+    },
+    {
+      "nombre": "MULT-T-LOCK",
+      "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_737/https://www.cerrajeriacapital.com/wp-content/uploads/2020/08/Mesa-de-trabajo-3.png",
+      "precio": "110000",
+      "Categoria": "cerrajeria",
+      "id": 4
+    },
+    {
+      "nombre": "ZERRUTI-FEH-CROIX",
+      "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_737/https://www.cerrajeriacapital.com/wp-content/uploads/2020/08/Mesa-de-trabajo-8.png",
+      "precio": "68000",
+      "Categoria": "cerrajeria",
+      "id": 5
+    },
+    {
+      "nombre": "AMIG-TESA",
+      "imagen": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_737/https://www.cerrajeriacapital.com/wp-content/uploads/2020/08/Mesa-de-trabajo-7.png",
+      "precio": "129000",
+      "Categoria": "cerrajeria",
+      "id": 6
+    }
+    
+  ]
+}
